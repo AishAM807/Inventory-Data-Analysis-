@@ -11,4 +11,10 @@ The objective of this project is to analyze inventory data and build an interact
 
 ### Steps followed
 
+- Step 1: Successfully imported the Test Environment dataset and Product Details dataset into SQL Server to prepare the data for analysis and transformation, as shown below.
+
+<img width="715" height="621" alt="Image" src="https://github.com/user-attachments/assets/9ee216c4-6460-4d1f-b63d-1a02dc47b242" />
+
+<img width="1088" height="707" alt="Image" src="https://github.com/user-attachments/assets/2f4e7ef2-38a6-4302-8ef8-4196906b7b35" />
+
 
