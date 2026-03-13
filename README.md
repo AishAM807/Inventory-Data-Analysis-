@@ -60,4 +60,6 @@ The objective of this project is to analyze inventory data and build an interact
 
 - Step 10: Created the first report page in Power BI to provide an interactive overview of inventory metrics, displaying KPIs for key values and using the filter pane to enable dynamic filtering by product name and date, enhancing report usability.
 
+<img width="1258" height="498" alt="Image" src="https://github.com/user-attachments/assets/4244a6d6-f961-46c2-b74c-73bb6e7a9977" />
+
 
