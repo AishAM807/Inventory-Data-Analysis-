@@ -31,3 +31,33 @@ The objective of this project is to analyze inventory data and build an interact
 
 <img width="1178" height="589" alt="Image" src="https://github.com/user-attachments/assets/b28d2d72-5c0f-420b-8d67-d63b122e1e3d" />
 
+
+
+- Step 4:The data was imported into Power BI Desktop, and the Power Query Editor was used to adjust and correct the data types of the columns.
+
+- Step 5: Customized the canvas background and adjusted the wallpaper background to improve the overall layout
+
+- Step 6: A DAX measure was created to calculate the distinct number of dates in the dataset.
+
+		Total_Distinct_dates = DISTINCTCOUNT('Inventory Data'[Order_Date_DD_MM_YYYY].[Date])
+
+- Step 7: Applied the SUM DAX function to compute the total product demand and total product availability.
+
+		Total_demand = SUM('Inventory Data'[Demand])
+
+		Total_availability = SUM('Inventory Data'[Availability])
+
+- Step 8: Developed additional DAX measures to determine the average demand per day, average availability per day, and total product shortage for improved inventory analysis.
+		Average Deamnd Per Day = DIVIDE([Total_demand], [Total_Distinct_dates])
+		
+		Average Availability per Day = DIVIDE([Total_availability], [Total_Distinct_dates])
+
+		Total Supply Sortage = [Total_demand] - [Total_availability]
+
+
+
+- Step 9: Implemented the filter pane in the report, allowing users to dynamically filter values based on product name and date.
+
+- Step 10: Created the first report page in Power BI to provide an interactive overview of inventory metrics, displaying KPIs for key values and using the filter pane to enable dynamic filtering by product name and date, enhancing report usability.
+
+
