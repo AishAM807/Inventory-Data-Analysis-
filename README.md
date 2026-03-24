@@ -76,3 +76,8 @@ The objective of this project is to analyze inventory data and build an interact
 - Step 14: Included Product Name and Order Date fields in the filter pane for better data filtering.
 
 <img width="1105" height="502" alt="Image" src="https://github.com/user-attachments/assets/8adfa6be-4274-4c6a-8af7-9b420769bc1f" />
+
+- Step 15: Set up a new SQL Server database named PROD and successfully imported the production and product datasets for further analysis.
+
+  
+- Step 16: Applied a WHERE clause to validate the quality of the Order Date column, as shown below.
