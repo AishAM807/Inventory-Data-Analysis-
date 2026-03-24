@@ -62,4 +62,14 @@ The objective of this project is to analyze inventory data and build an interact
 
 <img width="1258" height="498" alt="Image" src="https://github.com/user-attachments/assets/4244a6d6-f961-46c2-b74c-73bb6e7a9977" />
 
+- Step 11: Created a new calculated column to evaluate profit or loss by analyzing the difference between product demand and availability.
+- Step 12: Created DAX measures to calculate total profit and loss by comparing availability and demand. When the difference (availability minus demand) is positive, it is classified as profit; when negative, it is classified as loss.
+
+		Total Profit = SUMX(FILTER('Inventory Data', 'Inventory Data'[Profit/Loss] > 0), 'Inventory Data'[Profit/Loss] * 'Inventory Data'[Unit_Price])
+		
+		Total Loss = SUMX(FILTER('Inventory Data', 'Inventory Data'[Profit/Loss] < 0), 'Inventory Data'[Profit/Loss] * 'Inventory Data'[Unit_Price]) * -1		
+
+- Step 13: Created a measure to calculate the average daily loss by dividing total loss by the total number of days.
+
+		Average Loss per Day = DIVIDE([Total Loss], [Total_Distinct_dates])
 
