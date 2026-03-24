@@ -79,5 +79,9 @@ The objective of this project is to analyze inventory data and build an interact
 
 - Step 15: Set up a new SQL Server database named PROD and successfully imported the production and product datasets for further analysis.
 
+<img width="936" height="591" alt="Image" src="https://github.com/user-attachments/assets/f8e13f9f-7516-43fa-ac45-f13507228f9b" />
   
 - Step 16: Applied a WHERE clause to validate the quality of the Order Date column, as shown below.
+
+<img width="836" height="422" alt="Image" src="https://github.com/user-attachments/assets/018550e8-4f58-48e2-a8de-b397e49a9398" />
+
