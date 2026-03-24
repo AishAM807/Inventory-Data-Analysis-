@@ -74,3 +74,5 @@ The objective of this project is to analyze inventory data and build an interact
 		Average Loss per Day = DIVIDE([Total Loss], [Total_Distinct_dates])
 
 - Step 14: Included Product Name and Order Date fields in the filter pane for better data filtering.
+
+<img width="1105" height="502" alt="Image" src="https://github.com/user-attachments/assets/8adfa6be-4274-4c6a-8af7-9b420769bc1f" />
