@@ -85,3 +85,18 @@ The objective of this project is to analyze inventory data and build an interact
 
 <img width="836" height="422" alt="Image" src="https://github.com/user-attachments/assets/018550e8-4f58-48e2-a8de-b397e49a9398" />
 
+### Important Note: "The test dataset has a relatively low volume of records, whereas the production dataset is significantly larger. Hence, the production dataset will be loaded into SQL Server for data cleaning processes, followed by replacing the test dataset with the production dataset.”
+
+- Step 15: Set up a new SQL Server database named PROD and successfully imported the production and product datasets for further analysis.
+  
+- Step 16: Applied a WHERE clause to validate the quality of the Order Date column, as shown below.
+  
+- Step 17: Performed data cleaning in SQL by applying the UPDATE statement to modify product IDs and ensure data consistency.
+  
+- Step 18: Constructed a new table named new_table by leveraging a LEFT JOIN to integrate data from the production and products datasets using the common column product_id.
+  
+- Step 19: Transferred data from the test environment to the production environment using Power BI Desktop.
+
+- Step 20: Implemented the following procedure to change the data source within the system.
+
+
