@@ -103,10 +103,9 @@ The objective of this project is to analyze inventory data and build an interact
 
 - Step 20: Implemented the following procedure to change the data source within the system.
 
+<img width="308" height="249" alt="Image" src="https://github.com/user-attachments/assets/7c3429f0-bec3-4838-b268-8657232e07a5" />
+<img width="801" height="609" alt="Image" src="https://github.com/user-attachments/assets/58745b1a-eb73-44af-b2be-d6776491829d" />
 <img width="869" height="614" alt="Image" src="https://github.com/user-attachments/assets/ce539bdd-42ff-4f18-9cc5-85993ba7913c" />
 
-<img width="801" height="609" alt="Image" src="https://github.com/user-attachments/assets/58745b1a-eb73-44af-b2be-d6776491829d" />
-
-<img width="308" height="249" alt="Image" src="https://github.com/user-attachments/assets/7c3429f0-bec3-4838-b268-8657232e07a5" />
 
 
