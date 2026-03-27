@@ -107,5 +107,11 @@ The objective of this project is to analyze inventory data and build an interact
 <img width="801" height="609" alt="Image" src="https://github.com/user-attachments/assets/58745b1a-eb73-44af-b2be-d6776491829d" />
 <img width="869" height="614" alt="Image" src="https://github.com/user-attachments/assets/ce539bdd-42ff-4f18-9cc5-85993ba7913c" />
 
+### “Performed data source migration from SQL Server to MySQL to support data processing and analysis.”
 
+- Step 21: The production dataset was successfully imported into MySQL, as illustrated below.
+  
+- Step 22: Data preparation in MySQL involved using the UPDATE statement to modify production ID values. A similar process was implemented in SQL Server.
+  
+- Step 23: Also imported the product dataset into MySQL.
 
