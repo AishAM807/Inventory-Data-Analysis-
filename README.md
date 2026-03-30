@@ -120,3 +120,6 @@ The objective of this project is to analyze inventory data and build an interact
 - Step 23: Also imported the product dataset into MySQL.
 
 <img width="710" height="550" alt="Image" src="https://github.com/user-attachments/assets/4e56046a-7fa3-4b3d-80f8-34bae169abce" />
+
+- Step 24: Constructed new_table by performing a join between the production and product datasets on the common field, product_id, and applied the same methodology in SQL Server.
+
