@@ -123,3 +123,6 @@ The objective of this project is to analyze inventory data and build an interact
 
 - Step 24: Constructed new_table by performing a join between the production and product datasets on the common field, product_id, and applied the same methodology in SQL Server.
 
+<img width="636" height="394" alt="Image" src="https://github.com/user-attachments/assets/30f0aec0-8c2f-44c0-a061-fa1b2bb385ad" />
+
+<img width="797" height="371" alt="Image" src="https://github.com/user-attachments/assets/ddcbfe1b-930d-4ffa-ad84-372d6352dc92" />
