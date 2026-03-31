@@ -134,3 +134,10 @@ The objective of this project is to analyze inventory data and build an interact
 <img width="1190" height="608" alt="Image" src="https://github.com/user-attachments/assets/ac412b3c-1668-4f36-bd90-5df5aa285d98" />
 
 - Step 26: Published the report to the Power BI Service.
+
+# Insights
+
+A two-page report was created on Power BI Desktop & it was then published to Power BI Service.
+
+The following inferences can be drawn from the dashboard;
+
