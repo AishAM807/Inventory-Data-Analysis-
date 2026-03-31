@@ -141,6 +141,15 @@ A two-page report was created on Power BI Desktop & it was then published to Pow
 
 The following inferences can be drawn from the dashboard;
 
+
+### 📈Key Metrics
+- Total Profit: 301K
+- Total Loss: 8M
+- Average Daily Loss: 2.97K
+- Average Demand per Day: 48.65
+- Average Availability per Day: 24.70
+- Total Supply Shortage: 61K
+
 ### [1] Loss vs Profit Gap:
 - Total Loss (8M) is significantly higher than Total Profit (301K).
 - Loss is approximately 26.6 times greater than profit.
@@ -153,4 +162,16 @@ The following inferences can be drawn from the dashboard;
 - Profit represents only about 3.76% of total loss, showing low recovery against losses.
 ### [5] Performance Indicator:
 - The large gap suggests inefficiencies in operations, demand-supply mismatch, or high wastage.
+### [6] Demand vs Availability Gap:
+- Daily demand (48.65) is nearly 2x higher than availability (24.70).
+- Exact gap: 48.65 – 24.70 = 23.95 units/day shortage.
+### [7] Fulfillment Rate:
+- Availability meets only ~50.8% of demand.
+- This indicates that almost half of customer demand is unmet.
+### [8] Shortage Contribution:
+- The total shortage of 61K units aligns with the consistent daily gap, showing a systematic supply issue rather than occasional spikes.
+### [9] Demand Pressure:
+- Unmet demand per day (~23.95 units) highlights high demand pressure and insufficient supply capacity.
+### [10] Operational Impact:
+- Persistent shortages at this scale likely contribute directly to lost revenue opportunities and customer dissatisfaction.
 
