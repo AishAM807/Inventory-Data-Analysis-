@@ -135,9 +135,22 @@ The objective of this project is to analyze inventory data and build an interact
 
 - Step 26: Published the report to the Power BI Service.
 
-# Insights
+# 📊Insights
 
 A two-page report was created on Power BI Desktop & it was then published to Power BI Service.
 
 The following inferences can be drawn from the dashboard;
+
+### [1] Loss vs Profit Gap:
+- Total Loss (8M) is significantly higher than Total Profit (301K).
+- Loss is approximately 26.6 times greater than profit.
+### [2] Net Impact:
+- Net result = 301K – 8M = -7.699M
+- This indicates an overall net loss of ~7.7M.
+### [3] Daily Loss Perspective:
+- With an average daily loss of 2.97K, the business is consistently losing money each day.
+### [4] Profit Contribution:
+- Profit represents only about 3.76% of total loss, showing low recovery against losses.
+### [5] Performance Indicator:
+- The large gap suggests inefficiencies in operations, demand-supply mismatch, or high wastage.
 
