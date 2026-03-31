@@ -127,4 +127,10 @@ The objective of this project is to analyze inventory data and build an interact
 
 <img width="797" height="371" alt="Image" src="https://github.com/user-attachments/assets/ddcbfe1b-930d-4ffa-ad84-372d6352dc92" />
 
-- Step 25 :Changed the data source using the data source settings, and then applied transformations in the Advanced Editor within Power Query to migrate the report from SQL Server to MySQL.
+- Step 25: Changed the data source using the data source settings, and then applied transformations in the Advanced Editor within Power Query to migrate the report from SQL Server to MySQL.
+
+<img width="800" height="612" alt="Image" src="https://github.com/user-attachments/assets/22e24a2a-ffa8-44cb-ba59-a7711cd6dcae" />
+<img width="704" height="483" alt="Image" src="https://github.com/user-attachments/assets/d9ebb910-22e3-4f4d-976e-2bc1469458cf" />
+<img width="1190" height="608" alt="Image" src="https://github.com/user-attachments/assets/ac412b3c-1668-4f36-bd90-5df5aa285d98" />
+
+- Step 26: Published the report to the Power BI Service.
